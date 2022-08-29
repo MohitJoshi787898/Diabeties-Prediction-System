@@ -1,0 +1,2 @@
+# Diabeties-Prediction-System
+The proposed diabetes disease prediction system consists of many steps which are perfectly linked to each other to get the desired results. The first step consists of splitting the used dataset into two subsets, training and testing data. Then, we applied two different categories (ML and DL methods) in order to carry out the training phase using the training samples with the best parameters. Eventually, the trained models will be able to predict the testing samples
